@@ -16,7 +16,7 @@ function App() {
         {/* Parte superior de la tarjeta */}
         <div className="header">
           <div className="avatar">
-            DC
+             <img src="/perfil.jpg" alt="Foto de perfil"/>
           </div>
           <h2>{nombre}</h2>
           <p>{profesion}</p>
